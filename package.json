@@ -1,0 +1,19 @@
+{
+  "name": "pip-extension",
+  "version": "0.0.1",
+  "description": "this is a picture-in-picture chrome extesion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crazymad-tools/pip-extension.git"
+  },
+  "author": "crazy_mad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crazymad-tools/pip-extension/issues"
+  },
+  "homepage": "https://github.com/crazymad-tools/pip-extension#readme"
+}
